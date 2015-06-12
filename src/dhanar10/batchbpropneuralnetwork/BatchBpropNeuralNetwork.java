@@ -1,4 +1,4 @@
-package dhanar10.BatchBpropNeuralNetwork;
+package dhanar10.batchbpropneuralnetwork;
 
 public class BatchBpropNeuralNetwork {
 	public static final int HIDDEN_NEURON = 4;
